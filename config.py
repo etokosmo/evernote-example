@@ -6,10 +6,10 @@ class Settings(BaseSettings):
     EVERNOTE_CONSUMER_SECRET: str
     EVERNOTE_PERSONAL_TOKEN: str
 
-    JOURNAL_TEMPLATE_NOTE_GUID: str
-    JOURNAL_NOTEBOOK_GUID: str
+    JOURNAL_TEMPLATE_NOTE_GUID: str = ""
+    JOURNAL_NOTEBOOK_GUID: str = ""
 
-    INBOX_NOTEBOOK_GUID: str
+    INBOX_NOTEBOOK_GUID: str = ""
     
     class Config:
         env_file = '.env'
