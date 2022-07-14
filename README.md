@@ -69,7 +69,7 @@ You will get list of notebooks:
 9b005151-afff-4d03-a2b6-c0de8e24048b - Первый блокнот
 5e78cd70-3953-4f25-8751-82f4b085d06f - Дневник
 ```
-You can take notebook ID and take it to `INBOX_NOTEBOOK_GUID` and `JOURNAL_NOTEBOOK_GUID`.
+You can take notebook ID to `INBOX_NOTEBOOK_GUID` and `JOURNAL_NOTEBOOK_GUID`.
 
 ### dump_inbox.py
 
@@ -97,7 +97,7 @@ Text:
 Process finished with exit code 0
 
 ```
-You can take note ID and take it to `JOURNAL_TEMPLATE_NOTE_GUID`.
+You can take note ID to `JOURNAL_TEMPLATE_NOTE_GUID`.
 
 
 ### add_note2journal.py
