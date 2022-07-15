@@ -1,8 +1,7 @@
 # Script for working with service [Evernote](https://evernote.com/intl/ru)
 
 ## About
-With this script you can interact with [Evernote](https://evernote.com/intl/ru) using API.
-You can view your notebooks, notes of a specific notebook and also create a note using a template.
+This script can interact with Evernote API. You can view your notebooks, notes of a specific notebook or create note from template.
 
 
 ## API
